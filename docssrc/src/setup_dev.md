@@ -81,6 +81,7 @@ dependencies:
       compileOnly "dev.jorel:commandapi-paper-core:9.6.0-SNAPSHOT"
   }
   ```
+
   ```gradle,Spigot
   dependencies {
       compileOnly "dev.jorel:commandapi-spigot-core:9.6.0-SNAPSHOT"

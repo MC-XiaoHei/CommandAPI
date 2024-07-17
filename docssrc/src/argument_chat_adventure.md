@@ -10,7 +10,6 @@ while the arguments on the Spigot chat arguments page are only available when us
 >
 > The three following classes, `ChatColorArgument`, `ChatComponentArgument` and `ChatArgument` depend on a Paper based server which has the Adventure library. If you use this class on a server without the Adventure library, it will throw a `PaperAdventureNotFoundException`
 
-
 -----
 
 ## Adventure chat color argument
